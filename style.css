@@ -1,0 +1,22 @@
+#btns{
+  text-align: center;
+}
+#counter{
+  display: block;
+  font-size: 10em;
+  text-align: center;
+  font-family: Helvetica;
+}
+
+button{
+  padding: 10px 20px;
+  font-size: 2em;
+  color: hwb(0 42% 55%);
+  background: hwb(240 73% 11%);
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+body{
+  background: #bf1414b3;
+}
